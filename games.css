@@ -30,6 +30,7 @@
 
 
 
+
 .games-container {
   width: 100%;
   display: flex;
@@ -266,6 +267,9 @@
 .games-component7 {
   text-decoration: none;
 }
+.games-component8 {
+  text-decoration: none;
+}
 .games-container3 {
   gap: var(--dl-space-space-twounits);
   display: flex;
@@ -326,14 +330,10 @@
   margin-left: 0px;
   text-decoration: none;
 }
-.games-nav4 {
-  color: var(--dl-color-secondary-gray500);
-  margin-left: var(--dl-space-space-unit);
-  text-decoration: none;
-}
 .games-nav22 {
   color: var(--dl-color-secondary-gray500);
   margin-left: var(--dl-space-space-unit);
+  text-decoration: none;
 }
 .games-separator {
   flex: 0 0 auto;
